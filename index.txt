@@ -1,0 +1,4 @@
+SQUADS,beach,food,clouds,cyberpunk,cherry,garden,greece,magic,mushroom,mystery,olympus,palace,royalty,ruins,ships,swamp,western,whale 
+MEGA,atlantis,crystals,fallen,fruit,sky,the tea party,time,trials
+SOLO,bridges,courtyard,desert,dimension,flowers,golf,greenhouse,jungle,mine,robotic,shipwreck,snowy,sun,tropical
+DUO,castle,cyber city,dream,fairytale,floral,forest,inverted,library,manor,modern,neon,ocean,town,toys,under the sea,wipeout
